@@ -1,5 +1,7 @@
 #  Automation demo using cypress 
 
+[![CircleCI](https://circleci.com/gh/villaltacr/automation_demo/tree/master.svg?style=svg)](https://circleci.com/gh/villaltacr/automation_demo/tree/master)
+
 Hi!  This is a project in order to show how to automate a react/redux app using cypress 
 
 
