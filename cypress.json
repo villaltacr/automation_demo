@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://react-redux.realworld.io/",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "reporter": "mochawesome",
+  "chromeWebSecurity": false
+
+
+}

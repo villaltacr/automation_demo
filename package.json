@@ -1,0 +1,21 @@
+{
+  "name": "tests.e2e",
+  "version": "1.0.0",
+  "description": "Automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --reporter mochawesome",
+    "cypress:open": "cypress open"
+  },
+  "author": "dvillalta",
+  "dependencies": {
+    "cypress": "^4.0.0"
+  },
+  "devDependencies": {
+    "cypress-dark": "^1.7.14",
+    "cypress-image-snapshot": "^3.1.1",
+    "mocha": "^5.2.0",
+    "mochawesome": "^4.1.0",
+    "faker": "4.1.0"
+  }
+}
